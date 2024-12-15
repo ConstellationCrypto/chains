@@ -23,6 +23,14 @@
     "format": "png"
   }]
 }, {
+  "name": "corn",
+  "icons": [{
+    "url": "ipfs://bafkreiho2xcmjcg6tv7dbns5jl7zsp7f5rpymjuv3c2h2trvmfwm3hmwce",
+    "width": 938,
+    "height": 938,
+    "format": "png"
+  }]
+}, {
   "name": "bora",
   "icons": [{
     "url": "ipfs://QmccGWJcCzQh3rP6ZMdRyTc7JjtusKnXkoUtGUANQgjNqR",
@@ -116,6 +124,14 @@
     "url": "ipfs://QmSszu2AhLPgcp8SZYiBYCQiRVwb9ueqbnGbcTx9H9CJjZ",
     "width": 1851,
     "height": 1851,
+    "format": "png"
+  }]
+}, {
+  "name": "conwaiscan",
+  "icons": [{
+    "url": "ipfs://QmbCavc5ge8bp2neLuUzDbbZd737kHTN59dFgGDNsZezSD",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -423,6 +439,14 @@
     "format": "png"
   }]
 }, {
+  "name": "turbo",
+  "icons": [{
+    "url": "ipfs://QmXUP4JFNX2ET2vZHh9p4a6wEVC5os13evrWtF65EUfNkn",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "plinga",
   "icons": [{
     "url": "ipfs://bafybeibpvlod5nyev6wyuvp6pbestmgvru3ovbadsul32odpno26xwld6y",
@@ -490,14 +514,6 @@
   "name": "maxi",
   "icons": [{
     "url": "ipfs://QmcwqTBqA8ayxizG4XwLUSyg3xkQbpzUEvqQmWzyMSjnCo",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  }]
-}, {
-  "name": "jzero",
-  "icons": [{
-    "url": "ipfs://QmVXd6Jm541mVJbfzHQaZNZce9znvm8iXfxgf91J2XNg61",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -933,6 +949,14 @@
     "width": 1320,
     "height": 1320,
     "format": "svg"
+  }]
+}, {
+  "name": "conwai",
+  "icons": [{
+    "url": "ipfs://QmbCavc5ge8bp2neLuUzDbbZd737kHTN59dFgGDNsZezSD",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
   }]
 }, {
   "name": "klyntar",
@@ -1493,6 +1517,14 @@
     "width": 810,
     "height": 810,
     "format": "svg"
+  }]
+}, {
+  "name": "initverse",
+  "icons": [{
+    "url": "ipfs://bafkreieuowxl2syu2cfiebhqkdjrokbwq4sulcdrww3z4wws3vssm3phzi",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "emctest",
@@ -3191,6 +3223,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "egoldchain",
+  "icons": [{
+    "url": "ipfs://QmTQh54Rf3DFYxZZoQQ9yCjeAYXwzTaVua4KLmXX8AsFNF",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  }]
+}, {
   "name": "nume",
   "icons": [{
     "url": "ipfs://QmNbp1K6vKKFYh7bWeWtjBqKgdH88suDVbztP5CYU3pYNG",
@@ -3229,6 +3269,14 @@
     "width": 1440,
     "height": 1440,
     "format": "png"
+  }]
+}, {
+  "name": "hydration",
+  "icons": [{
+    "url": "ipfs://bafkreibipnyu4vdcvkgkxtgqlf7wdpmntstdy6q52bz5b7xekfaiduylru",
+    "width": 400,
+    "height": 400,
+    "format": "svg"
   }]
 }, {
   "name": "lycanchain",
@@ -3783,14 +3831,6 @@
     "format": "png"
   }]
 }, {
-  "name": "hydradx",
-  "icons": [{
-    "url": "ipfs://QmQnx3j1ZtQ9Br873FuS6612HQfosXsr4Whew8eN4ArYwE",
-    "width": 400,
-    "height": 400,
-    "format": "svg"
-  }]
-}, {
   "name": "zero",
   "icons": [{
     "url": "ipfs://QmWpvBtmDhZSAnRww5ZU6BvEbDbxKEzoyjWcanjc1UBD9X",
@@ -4279,6 +4319,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "jfinpos",
+  "icons": [{
+    "url": "ipfs://QmVXd6Jm541mVJbfzHQaZNZce9znvm8iXfxgf91J2XNg61",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "polyjuice",
   "icons": [{
     "url": "ipfs://QmZ5gFWUxLFqqT3DkefYfRsVksMwMTc5VvBjkbHpeFMsNe",
@@ -4719,6 +4767,14 @@
     "format": "png"
   }]
 }, {
+  "name": "evnode",
+  "icons": [{
+    "url": "ipfs://QmWjBJXdpBzNHtakvEkjKXU5XMJn8JaUTNLfaUt8Y1swPE",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "SenjePowers",
   "icons": [{
     "url": "ipfs://QmcpyTj4hUyHJZ2VmSdkXFpPpRcNKRP1VxMs7Cp1anymNy",
@@ -4948,6 +5004,14 @@
     "url": "ipfs://bafkreigfxcyvnx2r46a3unljb2auxeez5olbg56lbu4gkpa4me7wqoajjy",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "evoz",
+  "icons": [{
+    "url": "ipfs://bafkreia7pxdzauhdibtcjqhy4ywwshdgcspvh2jt3g4hyvamfymldlwhi4",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -6292,6 +6356,14 @@
     "url": "ipfs://QmW2xrDkSqBB7qgftp5PUecEGg4zwUBJgSN45CaR7CKJMr",
     "width": 256,
     "height": 256,
+    "format": "png"
+  }]
+}, {
+  "name": "studio",
+  "icons": [{
+    "url": "ipfs://QmamYSLuQSiAvqfQdejQn2PKXV6ZPQCagpXH5MLRz1GeCf",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
