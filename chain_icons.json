@@ -1911,6 +1911,14 @@
     "format": "png"
   }]
 }, {
+  "name": "zether",
+  "icons": [{
+    "url": "ipfs://QmZwdhRze34c3synJSp6QNv5zSpMiQf7DZS3N16HxGuzGh",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "vex",
   "icons": [{
     "url": "ipfs://QmcZiEAGFYEEax1uxYnDUh8X5YBvZqMi9K92yZoq4o2zeM",
@@ -5079,6 +5087,14 @@
     "format": "png"
   }]
 }, {
+  "name": "cyberchain",
+  "icons": [{
+    "url": "ipfs://QmUtbe2mpDGxqvQZxgad9VMMeAS4aSTmqfn7Px5GMJvbpD",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "hsk",
   "icons": [{
     "url": "ipfs://QmNU11AqYB2htrrSyBSP9ct7bPtuZTP7Hrz21PrEcB9nYE",
@@ -7383,6 +7399,14 @@
     "format": "png"
   }]
 }, {
+  "name": "soonchain",
+  "icons": [{
+    "url": "ipfs://bafkreia4zzsj2wxfrincui3hk664sspjfapd744eybh6th566ncj5js7aa",
+    "width": 1500,
+    "height": 1500,
+    "format": "png"
+  }]
+}, {
   "name": "highOctane",
   "icons": [{
     "url": "ipfs://bafkreibmj6pnsiybggr3koh5hbl2saungutcwbxme6pehteg5kzpzleubu",
@@ -7452,6 +7476,14 @@
     "url": "ipfs://Qme2Z8VFYjhHGfLQPBnfseNpEdRfmTDy7VXqrdH4AHETJf",
     "width": 150,
     "height": 150,
+    "format": "png"
+  }]
+}, {
+  "name": "zuuxchain",
+  "icons": [{
+    "url": "ipfs://QmUbpXxB8ZkowBKRN4g7QrezZvVHWEcTwBjx4Pkgx3uJXX",
+    "width": 1199,
+    "height": 1229,
     "format": "png"
   }]
 }, {

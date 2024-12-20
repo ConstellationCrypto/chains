@@ -2257,7 +2257,7 @@
     "symbol": "HSK",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.hsk.xyz"],
   "faucets": [],
   "infoURL": "https://hsk.xyz"
 }, {
@@ -5329,6 +5329,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "Electra Network",
+  "chainId": 861,
+  "shortName": "elc",
+  "networkId": 861,
+  "nativeCurrency": {
+    "name": "Electra",
+    "symbol": "ELC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.electranetwork.tech"],
+  "faucets": [],
+  "infoURL": "https://www.electranetwork.tech"
+}, {
   "name": "Fantasia Chain Mainnet",
   "chainId": 868,
   "shortName": "FSCMainnet",
@@ -5341,6 +5354,19 @@
   "rpc": ["https://mainnet-data1.fantasiachain.com/", "https://mainnet-data2.fantasiachain.com/", "https://mainnet-data3.fantasiachain.com/"],
   "faucets": [],
   "infoURL": "https://fantasiachain.com/"
+}, {
+  "name": "Electra Test Network",
+  "chainId": 871,
+  "shortName": "telc",
+  "networkId": 871,
+  "nativeCurrency": {
+    "name": "Test Electra",
+    "symbol": "TELC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.electranetwork.tech"],
+  "faucets": [],
+  "infoURL": "https://scan.testnet.electranetwork.tech"
 }, {
   "name": "Bandai Namco Research Verse Mainnet",
   "chainId": 876,
@@ -13077,7 +13103,7 @@
   "faucets": [],
   "infoURL": "https://nibiru.fi"
 }, {
-  "name": "InitVerse penesis testnet",
+  "name": "InitVerse genesis testnet",
   "chainId": 7234,
   "shortName": "INICHAIN",
   "networkId": 7234,
@@ -15530,7 +15556,7 @@
     "symbol": "XAU",
     "decimals": 18
   },
-  "rpc": ["https://rpc.egoldchain.com", "wss://wss.egoldchain.com"],
+  "rpc": ["https://rpc.egoldchain.com", "wss://rpc.egoldchain.com"],
   "faucets": [],
   "infoURL": "https://www.egoldchain.com"
 }, {
@@ -18182,7 +18208,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}", "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}", "https://arb1.arbitrum.io/rpc", "https://arbitrum-one.publicnode.com", "wss://arbitrum-one.publicnode.com"],
+  "rpc": ["https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}", "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}", "https://arb1.arbitrum.io/rpc", "https://arbitrum-one-rpc.publicnode.com", "wss://arbitrum-one-rpc.publicnode.com"],
   "faucets": [],
   "infoURL": "https://arbitrum.io"
 }, {
@@ -18195,7 +18221,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://nova.arbitrum.io/rpc", "https://arbitrum-nova.publicnode.com", "wss://arbitrum-nova.publicnode.com"],
+  "rpc": ["https://nova.arbitrum.io/rpc", "https://arbitrum-nova-rpc.publicnode.com", "wss://arbitrum-nova-rpc.publicnode.com"],
   "faucets": [],
   "infoURL": "https://arbitrum.io"
 }, {
@@ -19105,8 +19131,8 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
-  "faucets": [],
+  "rpc": ["https://rpc-gel.inkonchain.com", "https://rpc-qnd.inkonchain.com", "wss://rpc-gel.inkonchain.com", "wss://rpc-qnd.inkonchain.com"],
+  "faucets": ["https://inkonchain.com/faucet"],
   "infoURL": "https://inkonchain.com"
 }, {
   "name": "COINSEC Network",
@@ -19550,6 +19576,19 @@
   "rpc": ["https://mainnet-rpc.scolcoin.com"],
   "faucets": [],
   "infoURL": "https://scolcoin.com"
+}, {
+  "name": "CyberChain Mainnet",
+  "chainId": 65535,
+  "shortName": "ccx",
+  "networkId": 65535,
+  "nativeCurrency": {
+    "name": "CCX",
+    "symbol": "CCX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.cyberchain.xyz/"],
+  "faucets": [],
+  "infoURL": "https://cyberchain.xyz"
 }, {
   "name": "Automata Mainnet",
   "chainId": 65536,
@@ -20942,6 +20981,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "Edge Matrix Chain Sepolia",
+  "chainId": 99879,
+  "shortName": "EMCSepolia",
+  "networkId": 99879,
+  "nativeCurrency": {
+    "name": "Edge Matrix Chain Token",
+    "symbol": "EMC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1-sepolia.emc.network"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "UB Smart Chain(testnet)",
   "chainId": 99998,
   "shortName": "usctest",
@@ -21445,7 +21497,7 @@
     "symbol": "XAU",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.egoldchain.com", "wss://wss-testnet.egoldchain.com"],
+  "rpc": ["https://rpc-testnet.egoldchain.com", "wss://rpc-testnet.egoldchain.com"],
   "faucets": [],
   "infoURL": "https://www.egoldchain.com"
 }, {
@@ -23018,7 +23070,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://sepolia-rollup.arbitrum.io/rpc", "https://arbitrum-sepolia.infura.io/v3/${INFURA_API_KEY}"],
+  "rpc": ["https://sepolia-rollup.arbitrum.io/rpc", "https://arbitrum-sepolia.infura.io/v3/${INFURA_API_KEY}", "https://arbitrum-sepolia-rpc.publicnode.com", "wss://arbitrum-sepolia-rpc.publicnode.com"],
   "faucets": [],
   "infoURL": "https://arbitrum.io"
 }, {
@@ -23593,6 +23645,19 @@
   "rpc": ["https://evm-rpc-arctic-1.sei-apis.com", "https://evm-rpc.arctic-1.seinetwork.io"],
   "faucets": ["https://sei-faucet.nima.enterprises", "https://sei-evm.faucetme.pro"],
   "infoURL": "https://www.sei.io"
+}, {
+  "name": "Zether Mainnet",
+  "chainId": 715131,
+  "shortName": "zth",
+  "networkId": 715131,
+  "nativeCurrency": {
+    "name": "Zether",
+    "symbol": "ZTH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.zether.org", "https://rpc.zthscan.com"],
+  "faucets": [],
+  "infoURL": "https://zether.org"
 }, {
   "name": "ERAM Mainnet",
   "chainId": 721529,
@@ -24608,6 +24673,19 @@
   "faucets": [],
   "infoURL": "https://caldera.xyz/"
 }, {
+  "name": "Zuux chain testnet",
+  "chainId": 4284265,
+  "shortName": "zuuxchain",
+  "networkId": 4284265,
+  "nativeCurrency": {
+    "name": "ZUUX",
+    "symbol": "ZUUX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.zuux.network"],
+  "faucets": ["https://www.zuuxlend.xyz/faucet"],
+  "infoURL": "https://www.zuux.network"
+}, {
   "name": "Altar Testnet",
   "chainId": 4444444,
   "shortName": "altarTestnet",
@@ -25336,6 +25414,19 @@
   "faucets": [],
   "infoURL": "https://pego.network"
 }, {
+  "name": "SoonChain Sepolia Devnet",
+  "chainId": 20221001,
+  "shortName": "Soon-Devnet",
+  "networkId": 20221001,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.rpc.soonchain.ai"],
+  "faucets": ["https://console.optimism.io/faucet"],
+  "infoURL": "https://soonchain.ai"
+}, {
   "name": "Vcity Testnet",
   "chainId": 20230825,
   "shortName": "Vcity",
@@ -25566,8 +25657,8 @@
     "symbol": "XOC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.xone.plus"],
-  "faucets": [],
+  "rpc": ["https://rpc-testnet.xone.plus", "https://rpc-testnet.xone.org", "https://rpc-testnet.knight.center"],
+  "faucets": ["https://faucet.xone.plus/"],
   "infoURL": "https://xone.plus"
 }, {
   "name": "citronus-citro",
@@ -25813,7 +25904,7 @@
     "symbol": "ATN",
     "decimals": 18
   },
-  "rpc": ["https://autonity.rpc.web3cdn.network/testnet", "wss://autonity.rpc.web3cdn.network/testnet/ws", "https://autonity-piccadilly.rpc.subquery.network/public", "https://picadilly.autonity-apis.com", "wss://picadilly-ws.autonity-apis.com"],
+  "rpc": ["https://autonity.rpc.web3cdn.network/testnet", "wss://autonity.rpc.web3cdn.network/testnet/ws", "https://autonity-piccadilly.rpc.subquery.network/public", "https://piccadilly.autonity-apis.com", "wss://piccadilly-ws.autonity-apis.com"],
   "faucets": [],
   "infoURL": "https://autonity.org/"
 }, {
