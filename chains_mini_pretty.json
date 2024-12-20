@@ -4304,7 +4304,7 @@
 }, {
   "name": "River",
   "chainId": 550,
-  "shortName": "towns-mainnet",
+  "shortName": "river",
   "networkId": 550,
   "nativeCurrency": {
     "name": "Ether",
@@ -4313,7 +4313,7 @@
   },
   "rpc": ["https://mainnet.rpc.river.build", "https://towns-mainnet.calderachain.xyz/http"],
   "faucets": [],
-  "infoURL": "https://towns-mainnet.hub.caldera.xyz"
+  "infoURL": "https://www.river.build"
 }, {
   "name": "Vela1 Chain Mainnet",
   "chainId": 555,
@@ -11010,6 +11010,19 @@
   "faucets": ["https://faucet.dynoscan.io"],
   "infoURL": "https://dynoprotocol.com"
 }, {
+  "name": "PayNetwork Mainnet",
+  "chainId": 3969,
+  "shortName": "paynetwork",
+  "networkId": 3969,
+  "nativeCurrency": {
+    "name": "PayNetwork",
+    "symbol": "Pay",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.paynetwork.io", "https://paynetwork-main.calderachain.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://paynetwork-main.hub.caldera.xyz"
+}, {
   "name": "APEX Testnet",
   "chainId": 3993,
   "shortName": "apexsep",
@@ -13467,6 +13480,19 @@
   "faucets": ["https://faucet-new-testnet.maalscan.io/"],
   "infoURL": "https://www.maalchain.com/"
 }, {
+  "name": "Powerloom Mainnet",
+  "chainId": 7865,
+  "shortName": "power",
+  "networkId": 7865,
+  "nativeCurrency": {
+    "name": "Powerloom Token",
+    "symbol": "POWER",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.powerloom.network"],
+  "faucets": [],
+  "infoURL": "https://powerloom.network"
+}, {
   "name": "Hazlor Testnet",
   "chainId": 7878,
   "shortName": "tscas",
@@ -15780,6 +15806,19 @@
   "rpc": ["https://rpc.blgchain.com"],
   "faucets": ["https://faucet.blgchain.com"],
   "infoURL": "https://blgchain.com"
+}, {
+  "name": "Huddle01",
+  "chainId": 12323,
+  "shortName": "huddle01",
+  "networkId": 12323,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://huddle01.calderachain.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://huddle01.com/"
 }, {
   "name": "L3X Protocol",
   "chainId": 12324,
@@ -20422,6 +20461,19 @@
   "faucets": [],
   "infoURL": "https://www.smartlayer.network/"
 }, {
+  "name": "VEMP Horizon",
+  "chainId": 82614,
+  "shortName": "vemp-horizon",
+  "networkId": 82614,
+  "nativeCurrency": {
+    "name": "VEMP",
+    "symbol": "VEMP",
+    "decimals": 18
+  },
+  "rpc": ["https://vemp-horizon.calderachain.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://www.vemp.xyz/"
+}, {
   "name": "Xprotocol Testnet",
   "chainId": 83144,
   "shortName": "xprotocoltestnet",
@@ -20746,6 +20798,19 @@
   "rpc": ["https://triton.api.nautchain.xyz"],
   "faucets": ["https://faucet.eclipse.builders"],
   "infoURL": "https://docs.nautchain.xyz"
+}, {
+  "name": "Henez Chain Mainnet",
+  "chainId": 91111,
+  "shortName": "henez",
+  "networkId": 91111,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://henez.calderachain.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://www.henez.fi/"
 }, {
   "name": "MetaDAP Enterprise Mainnet",
   "chainId": 91120,
