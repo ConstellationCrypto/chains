@@ -498,13 +498,13 @@
   "shortName": "u2u",
   "networkId": 39,
   "nativeCurrency": {
-    "name": "Unicorn Ultra",
+    "name": "U2U Network",
     "symbol": "U2U",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.uniultra.xyz"],
+  "rpc": ["https://rpc-mainnet.u2u.xyz"],
   "faucets": [],
-  "infoURL": "https://uniultra.xyz"
+  "infoURL": "https://u2u.xyz"
 }, {
   "name": "Telos EVM Mainnet",
   "chainId": 40,
@@ -4302,6 +4302,19 @@
   "faucets": ["https://faucet.flow.com/fund-account"],
   "infoURL": "https://developers.flow.com/evm/about"
 }, {
+  "name": "River",
+  "chainId": 550,
+  "shortName": "towns-mainnet",
+  "networkId": 550,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.rpc.river.build", "https://towns-mainnet.calderachain.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://towns-mainnet.hub.caldera.xyz"
+}, {
   "name": "Vela1 Chain Mainnet",
   "chainId": 555,
   "shortName": "CLASS",
@@ -7603,6 +7616,19 @@
   "rpc": ["https://testnet.storyrpc.io"],
   "faucets": ["https://faucet.story.foundation"],
   "infoURL": "https://www.story.foundation"
+}, {
+  "name": "Story",
+  "chainId": 1514,
+  "shortName": "sty",
+  "networkId": 1514,
+  "nativeCurrency": {
+    "name": "IP Token",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.storyrpc.io"],
+  "faucets": [],
+  "infoURL": "https://story.foundation/"
 }, {
   "name": "Beagle Messaging Chain",
   "chainId": 1515,
@@ -10945,7 +10971,7 @@
   "faucets": ["https://www.dracscan.io/faucet"],
   "infoURL": "https://drac.io/"
 }, {
-  "name": "DOS Tesnet",
+  "name": "DOS Testnet",
   "chainId": 3939,
   "shortName": "dost",
   "networkId": 3939,
@@ -10954,7 +10980,7 @@
     "symbol": "DOS",
     "decimals": 18
   },
-  "rpc": ["https://test.doschain.com"],
+  "rpc": ["https://test.doschain.com/"],
   "faucets": [],
   "infoURL": "http://doschain.io/"
 }, {
@@ -16899,6 +16925,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "Fluent Developer Preview",
+  "chainId": 20993,
+  "shortName": "fluent-dev-net",
+  "networkId": 20993,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.dev.gblend.xyz"],
+  "faucets": ["https://faucet.dev.gblend.xyz"],
+  "infoURL": "https://fluent.xyz"
+}, {
   "name": "C4EI",
   "chainId": 21004,
   "shortName": "c4ei",
@@ -20200,6 +20239,19 @@
   "rpc": ["https://hizoco.net/rpc"],
   "faucets": [],
   "infoURL": "http://hizoco.net"
+}, {
+  "name": "Geo Genesis",
+  "chainId": 80451,
+  "shortName": "geo",
+  "networkId": 80451,
+  "nativeCurrency": {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz/"],
+  "faucets": [],
+  "infoURL": "https://geobrowser.io"
 }, {
   "name": "Nordek Mainnet",
   "chainId": 81041,

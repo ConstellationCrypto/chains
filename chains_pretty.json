@@ -787,14 +787,14 @@
 }, {
   "name": "U2U Solaris Mainnet",
   "chain": "u2u",
-  "rpc": ["https://rpc-mainnet.uniultra.xyz"],
+  "rpc": ["https://rpc-mainnet.u2u.xyz"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Unicorn Ultra",
+    "name": "U2U Network",
     "symbol": "U2U",
     "decimals": 18
   },
-  "infoURL": "https://uniultra.xyz",
+  "infoURL": "https://u2u.xyz",
   "shortName": "u2u",
   "chainId": 39,
   "networkId": 39,
@@ -6780,7 +6780,8 @@
     }, {
       "url": "https://op-bridge.form.network"
     }]
-  }
+  },
+  "status": "active"
 }, {
   "name": "World Chain",
   "chain": "ETH",
@@ -7089,6 +7090,35 @@
   "explorers": [{
     "name": "FlowScan Testnet",
     "url": "https://evm-testnet.flowscan.io",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "River",
+  "chain": "river",
+  "rpc": ["https://mainnet.rpc.river.build", "https://towns-mainnet.calderachain.xyz/http"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://towns-mainnet.hub.caldera.xyz",
+  "shortName": "towns-mainnet",
+  "chainId": 550,
+  "networkId": 550,
+  "icon": "river",
+  "explorers": [{
+    "name": "River Explorer",
+    "url": "https://explorer.river.build",
+    "standard": "EIP3091"
+  }, {
+    "name": "River Caldera Explorer",
+    "url": "https://towns-mainnet.calderaexplorer.xyz",
     "standard": "EIP3091"
   }]
 }, {
@@ -12375,6 +12405,26 @@
   "explorers": [{
     "name": "Story Iliad Network explorer",
     "url": "https://testnet.storyscan.xyz",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Story",
+  "chain": "STORY",
+  "rpc": ["https://mainnet.storyrpc.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "IP Token",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "infoURL": "https://story.foundation/",
+  "icon": "story",
+  "shortName": "sty",
+  "chainId": 1514,
+  "networkId": 1514,
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://mainnet.storyscan.xyz",
     "standard": "EIP3091"
   }]
 }, {
@@ -17823,9 +17873,9 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "DOS Tesnet",
+  "name": "DOS Testnet",
   "chain": "DOS",
-  "rpc": ["https://test.doschain.com"],
+  "rpc": ["https://test.doschain.com/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "DOS",
@@ -27627,6 +27677,25 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Fluent Developer Preview",
+  "chain": "Fluent",
+  "rpc": ["https://rpc.dev.gblend.xyz"],
+  "faucets": ["https://faucet.dev.gblend.xyz"],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://fluent.xyz",
+  "shortName": "fluent-dev-net",
+  "chainId": 20993,
+  "networkId": 20993,
+  "explorers": [{
+    "name": "Fluent Blockscout Explorer",
+    "url": "https://blockscout.dev.gblend.xyz",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "C4EI",
   "chain": "C4EI",
   "rpc": ["https://rpc.c4ei.net"],
@@ -33224,6 +33293,30 @@
     "url": "https://hizoco.net:38443",
     "standard": "none"
   }]
+}, {
+  "name": "Geo Genesis",
+  "chain": "Geo Genesis",
+  "rpc": ["https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz/"],
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "faucets": [],
+  "infoURL": "https://geobrowser.io",
+  "nativeCurrency": {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "shortName": "geo",
+  "chainId": 80451,
+  "networkId": 80451,
+  "explorers": [],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-42161"
+  }
 }, {
   "name": "Nordek Mainnet",
   "chain": "Nordek",

@@ -911,6 +911,14 @@
     "format": "png"
   }]
 }, {
+  "name": "story",
+  "icons": [{
+    "url": "ipfs://bafkreif4spxrmmnq6nymf6waxtr5ku4qjtbho3pvbhjke6td3ezyjzd4ay",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "pop",
   "icons": [{
     "url": "ipfs://QmbY9ZPnveSEnFhbhfHr5B2R8SPhQBKbAZnwQCoEkvAQtT",
@@ -3477,6 +3485,14 @@
     "width": 1024,
     "height": 1024,
     "format": "png"
+  }]
+}, {
+  "name": "river",
+  "icons": [{
+    "url": "ipfs://bafkreiafftbrpywlc4awvbgbdau4bpd5rg27za4eyh7somqw5pv755gbmq",
+    "width": 28,
+    "height": 24,
+    "format": "svg"
   }]
 }, {
   "name": "ultronsmartchain",
