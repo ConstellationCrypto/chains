@@ -1,8 +1,13 @@
 {
   "name": "XR One",
-  "chain": "ETH",
+  "chain": "xr-one",
   "rpc": ["https://xr-one.calderachain.xyz/http"],
   "faucets": [],
+  "nativeCurrency": {
+    "name": "XR",
+    "symbol": "XR",
+    "decimals": 18
+  },
   "features": [
     {
       "name": "EIP155"
@@ -11,33 +16,16 @@
       "name": "EIP1559"
     }
   ],
-  "nativeCurrency": {
-    "name": "XR",
-    "symbol": "XR",
-    "decimals": 18
-  },
-  "infoURL": "https://xr-one.gitbook.io",
-  "shortName": "xr",
+  "infoURL": "https://xr-one.hub.caldera.xyz",
+  "shortName": "xr-one",
   "chainId": 273,
   "networkId": 273,
-  "icon": "xr",
-  "slip44": 60,
+  "icon": "xr-one",
   "explorers": [
     {
-      "name": "XR One Explorer",
+      "name": "XR One Caldera Explorer",
       "url": "https://xr-one.calderaexplorer.xyz",
-      "icon": "blockscout",
       "standard": "EIP3091"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-42161",
-    "bridges": [
-      {
-        "url": "https://xr-one.bridge.caldera.xyz/"
-      }
-    ]
-  },
-  "status": "active"
+  ]
 }
