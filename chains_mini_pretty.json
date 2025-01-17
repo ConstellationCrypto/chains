@@ -9801,6 +9801,19 @@
   "faucets": ["https://www.omniaverse.io"],
   "infoURL": "https://www.omniaverse.io"
 }, {
+  "name": "GOAT Network",
+  "chainId": 2345,
+  "shortName": "goat",
+  "networkId": 2345,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.goat.network"],
+  "faucets": [],
+  "infoURL": "https://www.goat.network"
+}, {
   "name": "Silicon zkEVM",
   "chainId": 2355,
   "shortName": "silicon-zk",
@@ -14061,9 +14074,9 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://rpc.biteth.org"],
+  "rpc": ["https://rpc.bitcoinevm.org"],
   "faucets": [],
-  "infoURL": "https://biteth.org"
+  "infoURL": "https://bitcoinevm.org"
 }, {
   "name": "E-Dollar",
   "chainId": 8087,
@@ -15374,7 +15387,7 @@
     "symbol": "AGNG",
     "decimals": 18
   },
-  "rpc": ["https:///wss-async.agung.peaq.network"],
+  "rpc": ["https://wss-async.agung.peaq.network"],
   "faucets": [],
   "infoURL": "https://www.peaq.network"
 }, {
@@ -16778,7 +16791,7 @@
     "symbol": "A0GI",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.0g.ai"],
+  "rpc": ["https://evmrpc-testnet.0g.ai"],
   "faucets": ["https://faucet.0g.ai"],
   "infoURL": "https://0g.ai"
 }, {
@@ -17548,6 +17561,19 @@
   "rpc": ["https://testnet-rpc.antofy.io"],
   "faucets": ["https://faucet.antofy.io"],
   "infoURL": "https://antofy.io"
+}, {
+  "name": "PremiumBlock",
+  "chainId": 23023,
+  "shortName": "pblk",
+  "networkId": 23023,
+  "nativeCurrency": {
+    "name": "Premium Block",
+    "symbol": "PBLK",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.premiumblock.org"],
+  "faucets": [],
+  "infoURL": "https://scan.premiumblock.org"
 }, {
   "name": "Opside Testnet",
   "chainId": 23118,
@@ -20746,6 +20772,19 @@
   "rpc": ["https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz/"],
   "faucets": [],
   "infoURL": "https://geobrowser.io"
+}, {
+  "name": "Forta Chain",
+  "chainId": 80931,
+  "shortName": "forta",
+  "networkId": 80931,
+  "nativeCurrency": {
+    "name": "FORT",
+    "symbol": "FORT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"],
+  "faucets": [],
+  "infoURL": "https://www.forta.org/"
 }, {
   "name": "Nordek Mainnet",
   "chainId": 81041,
@@ -25608,6 +25647,19 @@
   "rpc": ["https://rpc.zora.energy/"],
   "faucets": [],
   "infoURL": "https://zora.energy"
+}, {
+  "name": "Ozean Poseidon Testnet",
+  "chainId": 7849306,
+  "shortName": "ozean-poseidon",
+  "networkId": 7849306,
+  "nativeCurrency": {
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18
+  },
+  "rpc": ["https://ozean-testnet.rpc.caldera.xyz/http", "wss://ozean-testnet.rpc.caldera.xyz/ws"],
+  "faucets": ["https://ozean-testnet.hub.caldera.xyz"],
+  "infoURL": "https://docs.ozean.finance"
 }, {
   "name": "Plian Mainnet Subchain 1",
   "chainId": 8007736,

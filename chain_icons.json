@@ -1167,6 +1167,14 @@
     "format": "png"
   }]
 }, {
+  "name": "goat",
+  "icons": [{
+    "url": "ipfs://bafkreifrhbzlufbvxbhywu4rmkkij4ur2qcg3zlk6irqnbabbjfj3cud2u",
+    "width": 1069,
+    "height": 1080,
+    "format": "jpg"
+  }]
+}, {
   "name": "mint",
   "icons": [{
     "url": "ipfs://QmVfsiKWkiYzxoq1j2Ri3yLYGvgHJBPybVEPsgyw5kqsMN",
@@ -5521,9 +5529,9 @@
 }, {
   "name": "bchyper",
   "icons": [{
-    "url": "ipfs://QmdofS7kgnRTnk8xeksYy7qBPLQiVSuC6C2XJea89Gh1pE",
-    "width": 256,
-    "height": 256,
+    "url": "ipfs://bafkreia5iw3fygyim6ivv4lznrsak2x6e573vybexlnpxpcp775hcgmjyi",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -6919,6 +6927,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ozean",
+  "icons": [{
+    "url": "ipfs://bafkreiapf66dn4de4dz2oyn63y3bpafm5f6pne4gxtufapd452c4ruzj5a",
+    "width": 191,
+    "height": 191,
+    "format": "png"
+  }]
+}, {
   "name": "ella",
   "icons": [{
     "url": "ipfs://QmVkAhSaHhH3wKoLT56Aq8dNyEH4RySPEpqPcLwsptGBDm",
@@ -7044,6 +7060,14 @@
     "url": "ipfs://bafkreiduag3kgux5c5a2zdiv3cjcrhwwh3cudc2hxyxufeadpfzhrjbo4u",
     "width": 1024,
     "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "forta-chain",
+  "icons": [{
+    "url": "ipfs://Qmd3KFA5oJbPHCe7rdKdzYBiBPoN8QWxCvU9yqteV3fDCQ",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
